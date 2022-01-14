@@ -39,7 +39,7 @@ JSON-RPC API被狗狗币核心提供的是自编制以及可以用`dogecoin-cli 
 
 主要开发资料：
 * [Github项目](https://github.com/dogecoin/dogecoin/projects)是为下个发布遵守进行的工作和计划的工作。
-* [Github讨论](https://github.com/dogecoin/dogecoin/discussions)是对付狗狗币心软件开发，优先协议以及狗狗资产讨论功能，计划和无计划。  
+* [Github讨论](https://github.com/dogecoin/dogecoin/discussions)是对付狗狗币核心软件开发，优先协议以及狗狗资产讨论功能，计划和无计划。  
 * [Dogecoindev subreddit](https://www.reddit.com/r/dogecoindev/)
 
 ## 版本说明
