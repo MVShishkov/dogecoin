@@ -1,5 +1,5 @@
 <h1 align="center">
-Dogecoin Core [DOGE, Ð]  
+狗狗币核心 (Dogecoin Core) [DOGE, Ð]  
 <br/><br/>
 <img src="https://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png" alt="Dogecoin" width="300"/>
 </h1>
@@ -13,7 +13,7 @@ Dogecoin Core [DOGE, Ð]
 
 语言选择: [英文](./README.md) | 简体中文
 
-狗狗币是社区驱动的加密货币被Shiba Inu模因激发了。狗狗币心软件给大家管理节点在狗狗币区块链网以及为工作量证明(POW)用脚本散列方法。它从比特币心和其他加密货币改编的。
+狗狗币是社区驱动的加密货币被Shiba Inu模因激发了。狗狗币核心软件给大家管理节点在狗狗币区块链网以及为工作量证明(POW)用脚本散列方法。它从比特币核心和其他加密货币改编的。
 
 对付狗狗币网的默认收费请看一看[收费推荐](doc/fee-recommendation.md)
 
@@ -21,13 +21,13 @@ Dogecoin Core [DOGE, Ð]
 
 ## 使用 💻
 
-为了开始探测狗狗币心请看一看[安装指导](INSTALL.md)和[开始](doc/getting-started.md)指导。
+为了开始探测狗狗币核心请看一看[安装指导](INSTALL.md)和[开始指导](doc/getting-started.md)。
 
-JSON-RPC API被狗狗币心提供的是自编制以及可以用`dogecoin-cli help`浏览的，还有每个指令的仔细信息以用`dogecoin-cli help <command>`看的，或者看一看[比特币心文件](https://developer.bitcoin.org/reference/rpc/) - 它实现类似的协议 - 为收浏览版本。
+JSON-RPC API被狗狗币核心提供的是自编制以及可以用`dogecoin-cli help`浏览的，还有每个指令的仔细信息以用`dogecoin-cli help <command>`看的，或者看一看[比特币核心文件](https://developer.bitcoin.org/reference/rpc/) - 它实现类似的协议 - 为收浏览版本。
 
 ### 这样的端口
 
-狗狗币心是为点对点（P2P）沟通使用`22556`默认端口。点对点沟通需要为了同步"mainnet"区块链以及知道新交易和区块。此外，JSONRPC端口可以用`22555`mainnet节点的默认端口开的。强烈推荐的是对公共互联网不显示RPC端口 
+狗狗币核心是为点对点（P2P）沟通使用`22556`默认端口。点对点沟通需要为了同步"mainnet"区块链以及知道新交易和区块。此外，JSONRPC端口可以用`22555`mainnet节点的默认端口开的。强烈推荐的是对公共互联网不显示RPC端口 
 
 | Function | mainnet | testnet | regtest |
 | :------- | ------: | ------: | ------: |
@@ -35,7 +35,7 @@ JSON-RPC API被狗狗币心提供的是自编制以及可以用`dogecoin-cli hel
 
 ## 目前的开发 - 月球计划 🌒
 
-狗狗币心是开放源软件和社区驱动软件。开发过程是开放的和公共看见的；每个人都对软件可以看，讨论和工作。
+狗狗币核心是开放源软件和社区驱动软件。开发过程是开放的和公共看见的；每个人都对软件可以看，讨论和工作。
 
 主要开发资料：
 * [Github项目](https://github.com/dogecoin/dogecoin/projects)是为下个发布遵守进行的工作和计划的工作。
@@ -78,4 +78,4 @@ JSON-RPC API被狗狗币心提供的是自编制以及可以用`dogecoin-cli hel
 如果对狗狗币有问题，很可能答案在[FAQ](doc/FAQ.md)或者[Q&A section](https://github.com/dogecoin/dogecoin/discussions/categories/q-a)!
 
 ## 执照 - 多执照 ⚖️
-狗狗币心是在MIT执照下发布的。如果需要更多的资讯，请看一看[COPYING](COPYING)或者[opensource.org](https://opensource.org/licenses/MIT)
+狗狗币核心是在MIT执照下发布的。如果需要更多的资讯，请看一看[COPYING](COPYING)或者[opensource.org](https://opensource.org/licenses/MIT)
